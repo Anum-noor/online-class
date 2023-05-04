@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    background-color="GREEN";
+    <h2  align ="center">STORE HOURS</h2>
+     <table >
+        <STYLE>
+            TABLE,TH,TD{
+                BORDER:1PX SOLID
+                
+            }
+            TH,
+            TD{
+                background-color: rgb(175, 216, 98);
+            }
+        </STYLE>
+        <tr background-colour ="grey">
+            <TH width="100"> SUNDAY</TH>
+           <TH  width="100">
+            MONDAY
+           </TH>
+           
+           <TH width="100">
+            TUESDAY
+           </TH>
+           <TH width="100">
+            WEDNESDAY
+           </TH >
+           <TH  width="100">
+            THURSDAY
+           </TH>
+           <TH width="100">
+            FRIDAY
+           </TH>
+           <TH  width="100">
+            SATURDAY
+           </TH>
+           
+        </TR>
+        <TR  align="center">
+        <TD>CLOSED</TD>
+        <TD>9-5</TD>
+        <TD>9-5</TD>
+        <TD>9-5</TD>
+        <TD>9-5</TD>
+        <TD>9-5</TD>
+        <TD>9-5</TD>
+        
+</TR>
+<TR  align="center">
+    <TD>CLOSED</TD>
+    <TD>9-5</TD>
+    <TD>9-5</TD>
+    <TD>9-5</TD>
+    <TD>9-5</TD>
+    <TD>9-5</TD>
+    <TD>9-5</TD>
+    
+</TR>
+
+
+     </TABLE>
+
+     <h2  align ="center">PARAGRAPH    Practice</h2>
+     <ul style="list-style: circle;"></ul>
+     <LI>	Time had come to formally organize Muslims after the success of the Simla deputation. </LI>
+<ul>Muslim league </ul>
+<ul>Indian national congress</ul>
+<li>The Muslim leaders desire to create a permanent political forum</li>
+<ul>Islam</ul>
+<ul>
+    Pakistan
+</ul>
+
+<LI>	Time had come to formally organize Muslims after the success of the Simla deputation. </LI>
+<ul>Muslim league </ul>
+<ul>Indian national congress</ul>
+<li>The Muslim leaders desire to create a permanent political forum</li>
+<ul>Islam</ul>
+<ul>
+    Pakistan
+</ul>
+<LI>	Time had come to formally organize Muslims after the success of the Simla deputation. </LI>
+<ul>Muslim league </ul>
+<ul>Indian national congress</ul>
+<li>The Muslim leaders desire to create a permanent political forum</li>
+<ul>Islam</ul>
+<ul>
+    Pakistan
+</ul>
+
+
+
+
+
+
+</body>
+</html>
